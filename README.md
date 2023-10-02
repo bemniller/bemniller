@@ -1,5 +1,5 @@
 <h1>Hello!</h1><br>
-My name is Benjamin Miller and I have experience in the following fields:
+My name is Benjamin Miller and I have experience in the following fields:<br>
 <ul>
 <li>Educational Technology</li>
 <li>Learning and Design</li>
