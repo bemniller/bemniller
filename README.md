@@ -1,4 +1,4 @@
-<b>Hello!</b><br>
+<h1>Hello!</h1><br>
 My name is Benjamin Miller and I have experience in the following fields:
 -Educational Technology
 -Learning and Design
