@@ -15,4 +15,4 @@ My name is Benjamin Miller and I have experience in the following fields:<br><br
 <br>
 Reach me at bm821002@gmail.com<br>
 <br>
-<div style="font-size: 1rem; font-weight: bold">Thanks for stopping by!</div>
+<div style="font-size: 1rem; font-weight: bold;">Thanks for stopping by!</div>
