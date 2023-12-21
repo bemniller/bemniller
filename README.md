@@ -13,6 +13,6 @@ My name is Benjamin Miller and I have experience in the following fields:<br><br
 ⚒ I'm currently working on expanding my full-stack development portfolio.<br><br>
 👨‍🎓 I'm currently learning about React, Ruby, .NET, and Python.<br>
 <br>
-📪 Reach me at bm821002@gmail.com<br>
+📪 Reach me at benjamin.miller@btmiller.org<br>
 <br>
 **Thanks for stopping by!**
